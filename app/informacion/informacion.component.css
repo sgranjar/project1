@@ -1,0 +1,43 @@
+.fondo{
+    background-color: rgb(153, 255, 238);
+    width: 1215px;
+    height: 350px;
+}
+
+
+.title-1{
+    margin-left: 459px;
+    font-size: 80px;
+    margin-top: 1px;
+
+}
+
+.contenido-quienes{
+    text-align: justify;
+    background-color: blanchedalmond;
+    width: 900px;
+    margin-top: 10px;
+    margin-left: 130px;
+}
+
+.imagen-1{
+    max-width: 1000px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+}
+
+.mision-card {
+    max-width: 400px;
+    max-height: 200px;
+    background-color:rgb(153, 255, 238);
+    margin-left: 100px;
+  }
+  
+  .vision-card {
+    max-width: 400px;
+    max-height: 200px;
+    background-color:rgb(153, 255, 238);
+    margin-right: 100px;
+    float: right;
+    align-content: space-between;
+  }
